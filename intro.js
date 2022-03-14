@@ -5,7 +5,7 @@ if(amount <10) {
     console.log ('small amount')
 }
 
-else {cxzxczx
+else {
 
     console.log('large number')
 }
